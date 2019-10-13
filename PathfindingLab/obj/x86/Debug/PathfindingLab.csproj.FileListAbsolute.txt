@@ -1,0 +1,87 @@
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.exe
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.pdb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.exe
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.pdb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\GridTile.xnb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ObstacleTile.xnb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\PathTile.xnb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Agent.xnb
+c:\users\javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ConsideredTile.xnb
+C:\Users\Javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.csprojResolveAssemblyReference.cache
+C:\Users\Javier\documents\visual studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\C5.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.exe
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.pdb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Agent.xnb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ConsideredTile.xnb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\GridTile.xnb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ObstacleTile.xnb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\PathTile.xnb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.exe
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.pdb
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Administrador.DESKTOP-E7NRK51\Desktop\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Content\Agent.xnb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Content\ConsideredTile.xnb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Content\GridTile.xnb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Content\ObstacleTile.xnb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Content\PathTile.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\Agent.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ConsideredTile.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\GridTile.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\ObstacleTile.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\Content\PathTile.xnb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.exe
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\PathfindingLab.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\C5.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.exe
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.pdb
+C:\Users\Usuario1\Documents\Visual Studio 2017\Projects\PathfindingLab\PathfindingLab\obj\x86\Debug\PathfindingLab.csprojResolveAssemblyReference.cache
